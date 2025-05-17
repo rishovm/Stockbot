@@ -1,0 +1,21 @@
+stockbot_project/
+│
+├── stock_ai_whatsapp_bot/
+│   ├── stockbot.py               # Main Python script with your StockBot code
+│   ├── recommendations.jpeg      # Output image with stock recommendations (generated)
+│   ├── README.md                 # Project README file (description, usage, etc.)
+│   └── requirements.txt          # Python dependencies
+│
+├── data/                        # (Optional) folder to save any datasets or downloads
+│
+├── docs/                        # (Optional) documentation files or assets
+│
+└── tests/                       # (Optional) unit tests or test scripts
+Explanation:
+•	stockbot_project/ — Root folder for the entire project.
+•	stock_ai_whatsapp_bot/ — Folder containing your main bot script and generated outputs.
+•	stockbot.py — Your main Python script.
+•	recommendations.jpeg — The image file your script generates (saved here).
+•	README.md — Markdown file describing the project.
+•	requirements.txt — Lists all required Python packages.
+•	Optional folders (data/, docs/, tests/) for organizing data files, documentation, and tests.
