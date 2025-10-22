@@ -11,7 +11,7 @@ Features
 •	Easily scalable to analyze hundreds of stocks
 Installation
 1.	Clone this repository:
-2.	git clone https://github.com/yourusername/stockbot.git
+2.	git clone https://github.com/rishovm/stockbot.git
 3.	cd stockbot
 4.	Create and activate a Python virtual environment (recommended):
 5.	python -m venv venv
